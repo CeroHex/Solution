@@ -1,0 +1,31 @@
+[{
+        "Id": "3ce41d60-5c03-4ede-be3f-e57a7157cb42",
+        "Title": "TAREA RELEVANTE 1",
+        "Description": "COMPLETAR TAREA",
+        "Priority": "HIGH",
+        "Status": "PENDING",
+        "DueDate": "2026-07-10T05:50:38.557Z",
+        "AssignedUserId": "9b9b4d2d-3df7-4b5c-9f7f-8a4dbef7c001",
+        "AssignedUsername": "usuario A"
+    },
+    {
+        "Id": "3ce41d60-5c03-4ede-be3f-e57a7157cb42",
+        "Title": "TAREA RELEVANTE 2",
+        "Description": "COMPLETAR TAREA",
+        "Priority": "HIGH",
+        "Status": "PENDING",
+        "DueDate": "2026-07-10T05:50:38.557Z",
+        "AssignedUserId": "9b9b4d2d-3df7-4b5c-9f7f-8a4dbef7c001",
+        "AssignedUsername": "usuario A"
+    },
+    {
+        "Id": "e4a1408f-105e-45f1-9f35-e0563c617690",
+        "Title": "TAREA NO RELEVANTE 1",
+        "Description": "COMPLETAR TAREA",
+        "Priority": "LOW",
+        "Status": "PENDING",
+        "DueDate": "2026-09-08T05:50:38.557Z",
+        "AssignedUserId": "2d7d49c8-5f5d-4c73-b7f5-0b63e7d4c002",
+        "AssignedUsername": "usuario B"
+    }
+]
