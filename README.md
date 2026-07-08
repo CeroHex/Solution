@@ -20,11 +20,7 @@ Para la persistencia de datos se utilizan archivos JSON como base de datos simul
 El proyecto está compuesto por dos microservicios independientes:
 
 
-Solution
-│
-├── UsersService
-│
-└── WorkItemsService
+Solution │ UsersService │ WorkItemsService
 
 
 ## Microservicios
@@ -122,11 +118,7 @@ Debido a que no se utiliza una base de datos real, la información se almacena e
 Ejemplo:
 
 
-Solution
-│
-├── users.json
-│
-└── items.json
+Solution │ users.json │ items.json
 
 
 ---
